@@ -22,7 +22,7 @@ formatter.match({
   "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
 });
 formatter.result({
-  "duration": 9928004465,
+  "duration": 25789360638,
   "status": "passed"
 });
 formatter.scenario({
@@ -57,14 +57,14 @@ formatter.match({
   "location": "StepDefToolsQA.user_inputs_data_to_all_available_textboxes_in_the_registration_page()"
 });
 formatter.result({
-  "duration": 1381760843,
+  "duration": 2213998872,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefToolsQA.user_Verifies_the_data_avaialable_in_those_textboxes()"
 });
 formatter.result({
-  "duration": 1023798188,
+  "duration": 1023464686,
   "status": "passed"
 });
 formatter.background({
@@ -83,7 +83,7 @@ formatter.match({
   "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
 });
 formatter.result({
-  "duration": 9589620664,
+  "duration": 11224886491,
   "status": "passed"
 });
 formatter.scenario({
@@ -118,14 +118,14 @@ formatter.match({
   "location": "StepDefToolsQA.user_selects_the_marital_status_as_single()"
 });
 formatter.result({
-  "duration": 101024557,
+  "duration": 531015887,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefToolsQA.user_Verifies_the_single_radio_button_is_selected_or_not()"
 });
 formatter.result({
-  "duration": 762905319,
+  "duration": 816717385,
   "status": "passed"
 });
 formatter.background({
@@ -144,7 +144,7 @@ formatter.match({
   "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
 });
 formatter.result({
-  "duration": 8931083440,
+  "duration": 14605389813,
   "status": "passed"
 });
 formatter.scenario({
@@ -179,14 +179,14 @@ formatter.match({
   "location": "StepDefToolsQA.user_selects_Cricket_as_his_Hobby()"
 });
 formatter.result({
-  "duration": 3092453606,
+  "duration": 3096127497,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefToolsQA.user_verifies_Whether_the_cricket_check_box_is_selected_or_not()"
 });
 formatter.result({
-  "duration": 770427709,
+  "duration": 751545620,
   "status": "passed"
 });
 formatter.background({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
 });
 formatter.result({
-  "duration": 9273039420,
+  "duration": 7648331905,
   "status": "passed"
 });
 formatter.scenario({
@@ -240,14 +240,14 @@ formatter.match({
   "location": "StepDefToolsQA.user_gets_the_text_from_the_default_selected_value_in_the_Country_DropDown()"
 });
 formatter.result({
-  "duration": 164436597,
+  "duration": 209164872,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefToolsQA.user_verifies_whether_the_text_in_default_selected_value_is_Afghanistan_or_not()"
 });
 formatter.result({
-  "duration": 741801234,
+  "duration": 715383558,
   "status": "passed"
 });
 });

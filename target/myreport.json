@@ -1,0 +1,272 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8794617143,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates to DemoQA Registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "Verifying available TextBoxes in the DemoQA Registration Page",
+        "description": "",
+        "id": "demoqa-registration-page-automation;verifying-available-textboxes-in-the-demoqa-registration-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1382802865,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User inputs data to all available textboxes in the registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_inputs_data_to_all_available_textboxes_in_the_registration_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1028521627,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Verifies the data avaialable in those textboxes",
+            "match": {
+              "location": "StepDefToolsQA.user_Verifies_the_data_avaialable_in_those_textboxes()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@textbox"
+          },
+          {
+            "line": 5,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 7656299053,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates to DemoQA Registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Verifying Marital Status Radio Button",
+        "description": "",
+        "id": "demoqa-registration-page-automation;verifying-marital-status-radio-button",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 100144427,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User selects the marital status as single",
+            "match": {
+              "location": "StepDefToolsQA.user_selects_the_marital_status_as_single()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 773051732,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User Verifies the single radio button is selected or not",
+            "match": {
+              "location": "StepDefToolsQA.user_Verifies_the_single_radio_button_is_selected_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@radiobutton"
+          },
+          {
+            "line": 10,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8125896112,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates to DemoQA Registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Verifying the Hobby Check Box",
+        "description": "",
+        "id": "demoqa-registration-page-automation;verifying-the-hobby-check-box",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3100177498,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User selects Cricket as his Hobby",
+            "match": {
+              "location": "StepDefToolsQA.user_selects_Cricket_as_his_Hobby()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 756893354,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User verifies Whether the cricket check box is selected or not",
+            "match": {
+              "location": "StepDefToolsQA.user_verifies_Whether_the_cricket_check_box_is_selected_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 14,
+            "name": "@checkbox"
+          },
+          {
+            "line": 14,
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 7777850951,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates to DemoQA Registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Verifying the default selected country in the country Drop Down",
+        "description": "",
+        "id": "demoqa-registration-page-automation;verifying-the-default-selected-country-in-the-country-drop-down",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 226261199,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User gets the text from the default selected value in the Country DropDown",
+            "match": {
+              "location": "StepDefToolsQA.user_gets_the_text_from_the_default_selected_value_in_the_Country_DropDown()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 755054518,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User verifies whether the text in default selected value is Afghanistan or not",
+            "match": {
+              "location": "StepDefToolsQA.user_verifies_whether_the_text_in_default_selected_value_is_Afghanistan_or_not()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 18,
+            "name": "@dropdown"
+          },
+          {
+            "line": 18,
+            "name": "@sanity"
+          }
+        ]
+      }
+    ],
+    "name": "DemoQA Registration page Automation",
+    "description": "",
+    "id": "demoqa-registration-page-automation",
+    "keyword": "Feature",
+    "uri": "DemoQATestCases.feature"
+  }
+]
