@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8794617143,
+              "duration": 10174051374,
               "status": "passed"
             },
             "line": 4,
@@ -33,7 +33,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1382802865,
+              "duration": 1313526932,
               "status": "passed"
             },
             "line": 8,
@@ -45,7 +45,7 @@
           },
           {
             "result": {
-              "duration": 1028521627,
+              "duration": 1023477230,
               "status": "passed"
             },
             "line": 9,
@@ -76,7 +76,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7656299053,
+              "duration": 10543557033,
               "status": "passed"
             },
             "line": 4,
@@ -98,7 +98,7 @@
         "steps": [
           {
             "result": {
-              "duration": 100144427,
+              "duration": 104342675,
               "status": "passed"
             },
             "line": 12,
@@ -110,7 +110,7 @@
           },
           {
             "result": {
-              "duration": 773051732,
+              "duration": 780639140,
               "status": "passed"
             },
             "line": 13,
@@ -141,7 +141,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8125896112,
+              "duration": 12068176051,
               "status": "passed"
             },
             "line": 4,
@@ -163,7 +163,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3100177498,
+              "duration": 3085638435,
               "status": "passed"
             },
             "line": 16,
@@ -175,7 +175,7 @@
           },
           {
             "result": {
-              "duration": 756893354,
+              "duration": 754961578,
               "status": "passed"
             },
             "line": 17,
@@ -206,7 +206,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7777850951,
+              "duration": 10403626470,
               "status": "passed"
             },
             "line": 4,
@@ -228,7 +228,7 @@
         "steps": [
           {
             "result": {
-              "duration": 226261199,
+              "duration": 184626534,
               "status": "passed"
             },
             "line": 21,
@@ -240,7 +240,7 @@
           },
           {
             "result": {
-              "duration": 755054518,
+              "duration": 843267893,
               "status": "passed"
             },
             "line": 22,
@@ -268,5 +268,80 @@
     "id": "demoqa-registration-page-automation",
     "keyword": "Feature",
     "uri": "DemoQATestCases.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9231559897,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates to DemoQA Registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_navigates_to_DemoQA_Registration_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "newly added feature",
+        "description": "",
+        "id": "demoqa-registration-page-automation-test2;newly-added-feature",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1366015006,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User inputs data to all available textboxes in the registration page",
+            "match": {
+              "location": "StepDefToolsQA.user_inputs_data_to_all_available_textboxes_in_the_registration_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 953595765,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Verifies the data avaialable in those textboxes",
+            "match": {
+              "location": "StepDefToolsQA.user_Verifies_the_data_avaialable_in_those_textboxes()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@textbox"
+          },
+          {
+            "line": 5,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "DemoQA Registration page Automation test2",
+    "description": "",
+    "id": "demoqa-registration-page-automation-test2",
+    "keyword": "Feature",
+    "uri": "DemoQATestCases2.feature"
   }
 ]
